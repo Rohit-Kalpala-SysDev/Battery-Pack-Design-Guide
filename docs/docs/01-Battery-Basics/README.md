@@ -1,31 +1,5 @@
-🔋 Battery Basics
+# Battery Basics
 
-Introduction
+This chapter introduces the fundamentals of batteries used in Electric Vehicles.
 
-Battery History
-
-Battery Terminology
-
-Voltage
-
-Current
-
-Power
-
-Energy
-
-Capacity
-
-C Rate
-
-Charging
-
-Discharging
-
-Battery Efficiency
-
-Applications
-
-Knowledge Check
-
-Next Chapter →
+> 🚧 Work in Progress
