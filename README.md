@@ -1,2 +1,21 @@
-# Battery-Pack-Design-Guide
-A comprehensive guide to Lithium-ion battery pack design for Electric Vehicles, covering battery fundamentals, pack calculations, BMS integration, safety standards, and practical engineering examples.
+──────────────────────────────────────────
+
+🔋 Battery Pack Design Guide
+
+Complete Guide for EV Battery Engineers
+
+⭐⭐⭐⭐⭐
+
+✔ Battery Basics
+✔ Cell Chemistry
+✔ Battery Pack Design
+✔ BMS
+✔ Wire Selection
+✔ Busbar Design
+✔ Nickel Strip Calculations
+✔ Battery Calculators
+✔ AIS-156
+✔ Practical Examples
+✔ Prototype Development
+
+──────────────────────────────────────────
